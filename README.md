@@ -48,6 +48,5 @@ This shows that there are variables at play beyond weather to understand and for
 There are various ways load forecasting can be improved. Additional features like settlement prices, can improve the current random forest model.
 With the help of new machine learning algorithms and, overall forecasting accuracy can be further improved. 
 There are various ways to interpret Blackbox models like neural networks and boosting algorithms. Traditional forecasting relied upon use of explainable algorithms like linear regression.
-![image](https://user-images.githubusercontent.com/58665046/121717012-bb465100-caae-11eb-9789-64483e63d988.png)
 
 
