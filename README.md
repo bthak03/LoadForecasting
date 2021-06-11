@@ -1,10 +1,10 @@
 # LoadForecasting
 ## Content
-Load forecasting challenges & solution
-Weather and energy load demand patterns 
-Multi linear regression modelling
-Random forest regression modelling 
-Future scope 
+- Load forecasting challenges & solution
+- Weather and energy load demand patterns 
+- Multi linear regression modelling
+- Random forest regression modelling 
+- Future scope 
 
 ## Challenge and solution 
 Energy load forecasting is one of the most challenging field. 
