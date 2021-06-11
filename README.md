@@ -32,7 +32,8 @@ However, summer months still play a huge role in energy demand.
 ## Regression Analysis
 Load forecasting with Multi Linear Regression analysis shows how important are the weather features like Cooling degree days and the summer. But beyond that weather characteristics like humidity also plays a significant role in forecasting the energy load. 
 The forecasting accuracy on basis of regression analysis was around 47%.   Indicating there is a significant influence of weather on energy usage.
-![image](https://user-images.githubusercontent.com/58665046/121716896-99e56500-caae-11eb-950a-b11000a60ab2.png)
+
+![image](https://user-images.githubusercontent.com/58665046/121717124-d87b1f80-caae-11eb-8b2f-3d843483a8a8.png)
 
 ## Random Forest
 
